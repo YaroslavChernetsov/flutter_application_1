@@ -1,7 +1,7 @@
 # Практическое занятие 1 
 
 
-A new Flutter project.
+Чернецов Ярослав Михайлович ЭФБО-05-22
 
 ## Getting Started
 
