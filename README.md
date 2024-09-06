@@ -2,6 +2,9 @@
 
 
 Чернецов Ярослав Михайлович ЭФБО-05-22
+![Снимок экрана (190)](https://github.com/user-attachments/assets/e5200d80-f354-41be-bc4e-44b52a06c795)
+![Снимок экрана (191)](https://github.com/user-attachments/assets/a0b33320-dba8-44c4-9531-30f8014555e0)
+
 
 ## Getting Started
 
